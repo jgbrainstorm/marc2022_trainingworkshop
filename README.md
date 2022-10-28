@@ -1,2 +1,5 @@
-# marc2022_trainingworkshop
-Training workshop on Machine Learning and NLP in MARC 2022
+# MARC2022 Training Workshop on Machine Learning and NLP 
+
+## Jiangang Hao, Educational Testing Service
+## Contact: <jhao@ets.org>
+
