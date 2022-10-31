@@ -37,4 +37,4 @@ Generation of Digital Learning and Assessment, Springer. <https://link.springer.
 
 ### Schedule
 
-![][schedule2022.png]
+![]["schedule2022.png"]
