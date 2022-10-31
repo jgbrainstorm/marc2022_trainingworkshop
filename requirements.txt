@@ -1,3 +1,4 @@
+# need to install pytorch, see here for details: https://pytorch.org/TensorRT/tutorials/installation.html
 nltk
 pyspellchecker
 scikit-learn
