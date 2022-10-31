@@ -1,7 +1,7 @@
 ## MARC2022 Training Workshop on Machine Learning and NLP 
 
 #### Jiangang Hao, Educational Testing Service, <jhao@ets.org>
-#### Nov. 2nd, 2022
+#### 9:00 AM - 12:00 AM, 1:00 PM - 4:00 PM, Nov. 2nd, 2022
 
 -----
 
@@ -36,6 +36,9 @@ Von Davier, A., Mislevy, R., & Hao, J. (Eds.), Computational Psychometrics: New 
 Generation of Digital Learning and Assessment, Springer. <https://link.springer.com/book/10.1007/978-3-030-74394-9>
 
 
-### Schedule
+### Schedule (may subject to adjustments)
+Nov. 2nd, 2022
+Session 1: 9:00 AM - 12:00 PM
+Session 2: 1:00 PM - 4:00 PM
 
 <img src="schedule2022.png" alt="drawing1" width="1000"/>
