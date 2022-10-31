@@ -1,7 +1,7 @@
 # MARC2022 Training Workshop on Machine Learning and NLP 
 
-## Jiangang Hao, Educational Testing Service
-## For questions, please contact: <jhao@ets.org>
+Jiangang Hao, Educational Testing Service, <jhao@ets.org>
+
 -----
 
 
@@ -37,4 +37,4 @@ Generation of Digital Learning and Assessment, Springer. <https://link.springer.
 
 ### Schedule
 
-![]["schedule2022.png"]
+![][/schedule2022.png]
