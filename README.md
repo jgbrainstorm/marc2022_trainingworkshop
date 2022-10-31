@@ -38,7 +38,9 @@ Generation of Digital Learning and Assessment, Springer. <https://link.springer.
 
 ### Schedule (may subject to adjustments)
 Nov. 2nd, 2022
+
 Session 1: 9:00 AM - 12:00 PM
+
 Session 2: 1:00 PM - 4:00 PM
 
 <img src="schedule2022.png" alt="drawing1" width="1000"/>
