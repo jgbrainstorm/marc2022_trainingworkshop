@@ -3,6 +3,7 @@
 #### Jiangang Hao, Educational Testing Service, <jhao@ets.org>
 #### 9:00 AM - 12:00 AM, 1:00 PM - 4:00 PM, Nov. 2nd, 2022
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgbrainstorm/marc2022_trainingworkshop/HEAD)
 -----
 
 
