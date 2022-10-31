@@ -1,0 +1,11 @@
+nltk
+pyspellchecker
+scikit-learn
+numpy
+matplotlib
+gensim
+scipy
+transformers
+pandas
+
+
