@@ -8,5 +8,5 @@ gensim
 scipy
 transformers
 pandas
-
+seaborn
 
